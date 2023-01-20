@@ -1,0 +1,24 @@
+.banner-img-1 {
+    background-image: url(/landing-page-using-bootstrap/images/carousel/4.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.banner-img-2 {
+    background-image: url(/landing-page-using-bootstrap/images/carousel/5.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.banner-img-3 {
+    background-image: url(/landing-page-using-bootstrap/images/carousel/3.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.client-img img {
+    width: 160px;
+}
